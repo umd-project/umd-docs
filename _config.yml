@@ -1,17 +1,5 @@
-remote_theme: pmarsceill/just-the-docs
-
-logo: "/assets/images/logo-300x300.png"
-
-color_scheme: umd
-
-link_color: $yellow-100;
-
-# Aux links for the upper right navigation
-aux_links:
-  "Docs on GitHub":
-    - "//github.com//umd-project/umd-docs"
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-
-permalink: pretty
+remote_theme: pmarsceill/just-the-docs;
+logo: "/assets/images/logo-300x300.png";
+search_enabled: false;
+color_scheme: umd;
+permalink: pretty;
