@@ -1,1 +1,11 @@
-theme: just-the-docs
+
+remote_theme: pmarsceill/just-the-docs
+logo: "/assets/images/logo.png"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Docs on GitHub":
+    - "//github.com//umd-project/umd-docs"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
