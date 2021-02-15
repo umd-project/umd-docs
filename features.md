@@ -3,7 +3,7 @@ layout: default
 title: Features
 nav_order: 2
 ---
-# Features of the UMD Doc
+## Features of the UMD Doc
  
 * It is a **container** document (*like zip*) that holds the different elements.
 * The individual elements can be either **links** or be **included** in the document.

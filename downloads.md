@@ -3,7 +3,7 @@ layout: default
 title: Downloads
 nav_order: 3
 ---
-# Downloads
+## Downloads
 
 The UMD App, which permits you to view and create UMD Docs, is available on different platforms.
 
