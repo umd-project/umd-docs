@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Docs of the UMD Project
 
-This site provides all the information about the Project.
+This site provides all the documentation about the Project.
 
 ## UMD: **one format fits all**
 Universal Markup Document is a *new* document type that **stitches** together content of different types.
