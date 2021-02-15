@@ -1,4 +1,7 @@
 ---
+layout: default
+title: ReadMe
+nav_exclude: true
 ---
 # Docs of the UMD Project
 
