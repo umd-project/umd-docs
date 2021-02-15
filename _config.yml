@@ -1,9 +1,8 @@
+remote_theme: pmarsceill/just-the-docs
 
-remote_theme: pmarsceill/just-the-docs;
+logo: "/assets/images/logo.png"
 
-logo: "/assets/images/logo.png";
-
-color_scheme: dark;
+color_scheme: dark
 
 link_color: $yellow-100;
 
@@ -13,6 +12,6 @@ aux_links:
     - "//github.com//umd-project/umd-docs"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false;
+aux_links_new_tab: false
 
-permalink: pretty;
+permalink: pretty
