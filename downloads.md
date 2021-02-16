@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Downloads
+title: UMD: Downloads
 ---
 [Back](./)
 <br/>
@@ -31,3 +31,5 @@ The Android version of the UMD App is available. It can be downloaded from the G
 ### iOS App
 {: .subtitle }
 The iphone / iPad app is under development. It would be released shortly after successful testing.
+<br/>
+[Back](./)

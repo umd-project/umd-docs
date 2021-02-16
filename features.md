@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Features
+title: UMD: Features
 ---
-[Back](/)
+[Back](./)
 <br/>
 ## Features of the UMD Doc
 
@@ -33,3 +33,5 @@ The UMD Doc can support one or more of the following components:
 7. **Form**{: .subtitle }: Form is a generic component that permits user-interaction within a UMD Document. An example of a form component is to *embed* a **Google Forms** Link or **Microsoft Forms** link in the UMD. When the receipient of such an UMD opens it and enters the form data, it will automatically be updated in the corresponding spreadsheet of the creator. This component greatly facilitates: surveys, polls, assessment, questionnaires etc.
 
 Over time the UMD Project Team will be adding more components to enhance the versatility of this doc type.
+<br/>
+[Back](./)
