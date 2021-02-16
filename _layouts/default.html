@@ -6,7 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>{{ page.title }}</title>
-  <meta name="og:description" content="The UMD Project defines a format spec for the UMD Document: one format that fits all">
+  <meta name="og:description"
+    content="The UMD Project defines a format spec for the UMD Document: one format that fits all">
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="website" />
 
@@ -20,7 +21,8 @@
   <meta property="og:image:height" content="300">
 
   <!-- blank app icon -->
-  <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfkDBcPCg5fNPOjAAAAbklEQVQY062OzQqDMBgE90tSQcEgLULpIe//WOI1rVBKQ/xJ1kMR6j0De5nLjjicUSgj+C8MeKkiNZCUXQJhULtmsB22r76PVx8VWz11jzV+eszGWhqZuN6ePqdQx/b9EnEAQAEoUPm4ld9yofQdU40kXdxM03wAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMTItMjNUMTU6MTA6MjkrMDY6MDBTw++nAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTEyLTIzVDE1OjEwOjE0KzA2OjAwzcYxOAAAAABJRU5ErkJggg==">
+  <link rel="icon"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfkDBcPCg5fNPOjAAAAbklEQVQY062OzQqDMBgE90tSQcEgLULpIe//WOI1rVBKQ/xJ1kMR6j0De5nLjjicUSgj+C8MeKkiNZCUXQJhULtmsB22r76PVx8VWz11jzV+eszGWhqZuN6ePqdQx/b9EnEAQAEoUPm4ld9yofQdU40kXdxM03wAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMTItMjNUMTU6MTA6MjkrMDY6MDBTw++nAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTEyLTIzVDE1OjEwOjE0KzA2OjAwzcYxOAAAAABJRU5ErkJggg==">
 
 
   <link rel="stylesheet" href="assets/css/style.css">
@@ -45,24 +47,29 @@
         <div class="umd-logo"></div>
       </a>
       <div></div>
-      <a href="/app" target="_blank">
-        <div class="button app-button">Link to App</div>
-      </a>
     </header>
     <div class="content-container">
       <section class="content">
         {{ content }}
       </section>
       <footer>
-        <img src="https://img.shields.io/badge/©-RmR-yellow">
-        <a href="https://github.com/rrrepos/umd-project" target="_blank"><img
-            src="https://img.shields.io/badge/github-repolink-blue">
+        <div>
+          <a href="https://twitter.com/UmdProject?ref_src=twsrc%5Etfw" class="twitter-follow-button"
+            data-show-count="false">Follow @UmdProject</a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        <div>
+          <a href="https://umdproject.medium.com/" target="_blank"><img
+              src="https://img.shields.io/badge/medium-umdproject-brightgreen">
           </a>
-        <img alt="GitHub" src="https://img.shields.io/github/license/rrrepos/test">
-        <a href="https://twitter.com/UmdProject?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @UmdProject</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <a href="https://umdproject.medium.com/" target="_blank"><img
-          src="https://img.shields.io/badge/medium-umdproject-brightgreen">
-        </a>
+        </div>
+        <div>
+          <img src="https://img.shields.io/badge/©-RmR-yellow">
+          <a href="https://github.com/rrrepos/umd-project" target="_blank"><img
+              src="https://img.shields.io/badge/github-repolink-blue">
+          </a>
+          <img alt="GitHub" src="https://img.shields.io/github/license/rrrepos/test">
+        </div>
       </footer>
     </div>
   </div>
