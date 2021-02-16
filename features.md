@@ -2,8 +2,9 @@
 layout: default
 title: Features
 ---
+[Back](../)
+<br/>
 ## Features of the UMD Doc
-{: .subtitle }
 
 * It is a **container** document (*like zip*) that holds the different elements.
 * The individual elements can be either **links** or be **included** in the document.
@@ -15,7 +16,6 @@ title: Features
 * It is a free and open-source project maintained by RmR.
 
 ## Supported Components
-{: .subtitle }
 The UMD Doc can support one or more of the following components:
 
 1. **Text**: simple formatted text can easily be added as part of a document. Instead of uploading such a text file, the UMD App provides an **inline** editor to compose it conveniently.

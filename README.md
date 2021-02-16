@@ -1,10 +1,6 @@
 ---
-layout: default
-title: ReadMe
-nav_exclude: true
 ---
-# Docs of the UMD Project
+# About
 
-This site provides all the information about the Project.
+This repo provides the content to the website: [https://umd-project.github.io/umd-docs](https://umd-project.github.io/umd-docs)
 
-## UMD: **one format fits all**

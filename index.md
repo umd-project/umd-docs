@@ -10,8 +10,7 @@ title: Home
 
 ### Example of an UMD
 {: .subtitle }
-The simplest way to understand the UMD Doc is to sample one. Click on the link below:
-
+The simplest way to understand the UMD Doc is to sample one. Click on the link:
 [sample.umd](https://umd-project.org/app?https://storage.googleapis.com/dap-demo-cors/sample-edu.umd)
 
 
