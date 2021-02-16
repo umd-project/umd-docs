@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UMD: Features
+title: UMD: Creating an UMD
 ---
 [Back](./)
 <br/>
@@ -40,56 +40,32 @@ By using the free app. Read the section below on more details about it.
 
 <br/>
 
-### About the App
-#### How do we access the app
-{: .subtitle}
-From a browser use the link: [https://umd-project.org/app](https://umd-project.org/app){:target="_blank"}. The app lets you view a UMD file as well as create or edit an existing one. *Kindly book-mark this url*.
-
-An Android app is also conveniently built. It can be downloaded from the [PlayStore](https://play.google.com/store/apps/details?id=org.umdproject.umdapp)
-
-An iOS app is under development.
-
-#### How do we view files from the app
-{: .subtitle}
-There are a number of ways to achieve this.
-1. By opening the file from your device or desktop using upload.
-2. By typing the URL of the file if it is stored on an internet server. *There are restrictions. Please read the Developer section for more info*.
-3. By adding the URL to the web app link using the url parameter.
-
-Check out the [Examples section](../examples/readme.md).
-
-#### Is the app free
-{: .subtitle}
-The app is **free**. In addition, there is no login required to view or create umd files.
-
-<br/>
-
-### Creating UMD files
-#### How do we create a UMD file
+### Creating UMD Doc
+### How do we create a UMD file
 {: .subtitle}
 The app lets you view an UMD file as well as create it. The link is provided on the top of this screen. You can create a new UMD by adding components. The supported components are: text, image, audio, video, pdf, markdown. For each component you can provide the link or upload the file. That's it.
 
-#### How many components can one UMD file hold
+### How many components can one UMD file hold
 {: .subtitle}
 There is no limit to the number of components. Multiple contents of the same component type too can exist. For example, <i>you can create a umd file that has an image banner followed by some heading text which follows with another image and then below it is an audio. Finally, this can end with a youtube video link followed by some PDF file!</i>
 
-#### Once we add the components, how do we download the UMD
+### Once we add the components, how do we download the UMD
 {: .subtitle}
 In the app, after adding the desired content, you will notice a **Download** icon. Tapping on this will enable you to specify the filename, and any password protection that you may require. Once done, it will download the file in the default (*downloads*) directory of your browser.
 
-#### Do we need to login to create a UMD file
+### Do we need to login to create a UMD file
 {: .subtitle}
 No. No login or fee required to view or create umd files.
 
-#### Are the UMD files we create stored on any server
+### Are the UMD files we create stored on any server
 {: .subtitle}
 No. The UMD files that you created can only be downloaded by the creator on their local storage. We only maintain statistics of number of files created as an indicator of the usage of this tool.
 
-#### What about during Viewing of a UMD. Does it load it on any server 
+### What about during Viewing of a UMD. Does it load it on any server 
 {: .subtitle}
 Again no. When you upload a UMD on the App to view it, it is loaded on your local device only.
 
-#### Is there any training course?
+### Is there any training course?
 Yes. [Course 101: Building your first UMD File](../app?url=/examples/files/umd-course-101.umd)
 
 

@@ -17,6 +17,8 @@ The simplest way to understand the UMD Doc is to sample one. Click on the link:
 ### Know More
 {: .subtitle }
 1. [Features of UMD Document](./features.md)
-2. [Free Download of the App](./downloads.md)
-3. [Examples of using UMD with samples](./examples.md)
-4. [Frequently Asked Questions](./faq.md)
+2. [About UMD](./aboutumd.md)
+3. [Free Download of the App](./downloads.md)
+4. [Examples of using UMD with samples](./examples.md)
+5. [Viewing UMD Doc](./viewingumd.md)
+6. [Creating UMD Doc](./creatingumd.md)
