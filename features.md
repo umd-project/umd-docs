@@ -2,7 +2,7 @@
 layout: default
 title: Features
 ---
-[Back](../)
+[Back](/)
 <br/>
 ## Features of the UMD Doc
 
