@@ -3,7 +3,7 @@ layout: default
 title: Features
 nav_order: 2
 ---
-## Features of the UMD Doc
+# Features of the UMD Doc
  
 * It is a **container** document (*like zip*) that holds the different elements.
 * The individual elements can be either **links** or be **included** in the document.
@@ -14,7 +14,7 @@ nav_order: 2
 * A UMD Viewer webcomponent is available to embed it in websites or webapps.
 * It is a free and open-source project maintained by RmR.
 
-## Supported Components
+# Supported Components
 The UMD Doc can support one or more of the following components:
 
 1. **Text**: simple formatted text can easily be added as part of a document. Instead of uploading such a text file, the UMD App provides an **inline** editor to compose it conveniently.

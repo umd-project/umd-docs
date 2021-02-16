@@ -1,5 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
-logo: "/assets/images/logo-300x300.png"
 search_enabled: false
 color_scheme: umd
 permalink: pretty
