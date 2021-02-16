@@ -8,7 +8,7 @@ title: UMD: Viewing UMD Doc
 
 ### How do we access the app
 {: .subtitle}
-UMD Apps are available for multiple platforms. Download based on your device and OS. (Downloads)(./downloads.md)
+UMD Apps are available for multiple platforms. Download based on your device OS. [Downloads sections](./downloads.md)
 
 #### How do we view files from the app
 {: .subtitle}
