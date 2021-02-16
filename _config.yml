@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-logo: "/assets/images/logo.svg"
+logo: "/assets/images/logo.png"
 search_enabled: false
 color_scheme: umd
 permalink: pretty
