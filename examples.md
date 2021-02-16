@@ -46,5 +46,7 @@ In all the earlier examples, the UMD file was not in edit mode. This was as per 
 1. download [sample-edu-edit.umd](files/sample-edu-edit.umd) to your local device (desktop / mobile).
 2. Open the [UMD App](https://umd-project.org/app){:target="_blank"}
 3. From the app screen, load the downloaded umd file in the app.
+
+
 <br/>
 [Back](./)
