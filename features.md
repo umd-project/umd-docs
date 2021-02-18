@@ -28,7 +28,7 @@ The UMD Doc can support one or more of the following components:
 
 5. **PDF**{: .subtitle }: Any PDF can just as easily be added to the UMD Doc as one another component type. The App would add its content to the flow making it a seamless experience.
 
-6. **Markdown**{: .subtitle }: The Markdown format, once only used by geeks, is supported as a component type. The ease with which users can make simple formatted content lends itself as a quick and convenient way to add content. Many of the samples in the examples link have used markdown files as one of the components. Those who are not familiar may wish to check out: https://www.markdownguide.org/
+6. **Markdown**{: .subtitle }: The Markdown format, once only used by geeks, is supported as a component type. The ease with which users can make simple formatted content lends itself as a quick and convenient way to add content. Many of the samples in the examples link have used markdown files as one of the components. Those who are not familiar may wish to check out: [https://www.markdownguide.org/](https://www.markdownguide.org/){:target="_blank"}
 
 7. **Form**{: .subtitle }: Form is a generic component that permits user-interaction within a UMD Document. An example of a form component is to *embed* a **Google Forms** Link or **Microsoft Forms** link in the UMD. When the receipient of such an UMD opens it and enters the form data, it will automatically be updated in the corresponding spreadsheet of the creator. This component greatly facilitates: surveys, polls, assessment, questionnaires etc.
 

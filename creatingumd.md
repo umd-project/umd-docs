@@ -66,7 +66,7 @@ No. The UMD files that you created can only be downloaded by the creator on thei
 Again no. When you upload a UMD on the App to view it, it is loaded on your local device only.
 
 ### Is there any training course?
-Yes. [Course 101: Building your first UMD File](../app?url=/examples/files/umd-course-101.umd)
+Yes. [Course 101: Building your first UMD File](https://app.umd-project.org?url=/assets/files/umd-course-101.umd){:target="_blank"}
 
 
 <br/>
