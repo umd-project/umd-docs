@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>UMD: App</title>
+    <meta name="og:description" content="The Universal Markup Document app">
+    <meta property="og:title" content="UMD: App" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/assets/images/logo-300x300.png">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="UMD: App">
+    <!-- blank app icon -->
+    <link rel="icon"
+        href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfkDBcPCg5fNPOjAAAAbklEQVQY062OzQqDMBgE90tSQcEgLULpIe//WOI1rVBKQ/xJ1kMR6j0De5nLjjicUSgj+C8MeKkiNZCUXQJhULtmsB22r76PVx8VWz11jzV+eszGWhqZuN6ePqdQx/b9EnEAQAEoUPm4ld9yofQdU40kXdxM03wAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMTItMjNUMTU6MTA6MjkrMDY6MDBTw++nAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTEyLTIzVDE1OjEwOjE0KzA2OjAwzcYxOAAAAABJRU5ErkJggg==">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/app.css">
+</head>
+
+<body>
+    <div class="main-container">
+        <header>
+            <div class="umd-logo"></div>
+        </header>
+        <div class="tab-bar invisible">
+        </div>
+        <div class="tab-container">
+            <div id="doc-new" class="doc new-container">
+                <div class="filer-container">
+                    <h3>Universal Markup Document</h3>
+                    <a href="https://app.umd-project.org">
+                        <h6>The Page has moved to https://app.umd-project.org</h6>
+                    </a>
+                </div>
+            </div>
+            <div class="footer">
+                <img src="https://img.shields.io/badge/©-RmR-yellow">
+                <img src="https://img.shields.io/badge/ver-0.4.4-blue">
+                <a href="https://twitter.com/UmdProject?ref_src=twsrc%5Etfw" class="twitter-follow-button"
+                    data-show-count="false">Follow @UmdProject</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+        </div>
+    </div>
+    <script>
+        window.location.href = `https://app.umd-project.org${window.location.search}`;
+    </script>
+</body>
+
+</html>
