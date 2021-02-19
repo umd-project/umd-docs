@@ -12,7 +12,7 @@ The UMD App, which permits you to view and create UMD Docs, is available on diff
 {: .subtitle }
 The simplest way to access the app is using the url on a browser. Universal access that works on all devices: Mobiles as well as Desktops.
 
-The access is using: [https://app.umd-project.org/app](https://app.umd-project.org)
+The access is using: [https://app.umd-project.org](https://app.umd-project.org)
 
 ### Windows App
 {: .subtitle }
