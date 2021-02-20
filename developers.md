@@ -67,7 +67,9 @@ In summary, The UMD file is a compressed (*zip*) file of a folder that consists 
 #### What are the different ways in which a UMD file can be viewed
 {: .subtitle}
 There are two ways:
-1. **Using Viewer App**: Users can *open* an UMD file in the viewer. The app is available as a web-app (https://umd-project.org/app). Android users have an Android App (UMD App from the PlayStore).
+1. **Using Viewer App**: Users can *open* an UMD file in the viewer. The app is available as a web-app (https://app.umd-project.org). 
+
+2. **Using Client Apps**: Client apps are being built for various platforms. Check out [downloads](../downloads.html) for the latest versions.
 
 2. **Embedding in a website or webapp**: Developers can embed a **umd-viewer-component** on any webpage. Details are given below.
 
@@ -100,7 +102,8 @@ See the example below:
 
 1. `umd-viewer.js` is the library to the **umd-viewer** webcomponent.
 2. Set the `url` object in the  `umd-viewer` webcomponent to point to the source of the umd file.
-3. Download [umd-viewer-wc.min.js](../components/umd-viewer-wc.min.js)
+3. Download [umd-viewer-wc.min.js](https://github.com/umd-project/umd-viewer/tree/main/dist){:target="_blank"} from the repo.
+4. Check the above repo for a working example.
 
 
 #### How to embed the umd-viewer using file object
@@ -137,7 +140,9 @@ Developers can set a **file-object** via javascript to the webcomponent. A worki
 
 1. `umd-viewer.js` is the library to the **umd-viewer** webcomponent.
 2. Set the `file` object in the  `umd-viewer` webcomponent to point to the file object.
-3. Download [umd-viewer-wc.min.js](../components/umd-viewer-wc.min.js)
+3. Download [umd-viewer-wc.min.js](https://github.com/umd-project/umd-viewer/tree/main/dist){:target="_blank"} from the repo.
+4. Check the above repo for a working example.
+
 
 ### Editor
 #### Which tool is required to create or edit an UMD file
@@ -189,7 +194,7 @@ Yes. You may upload the generated UMD file in drop box and share it. The Shared 
 https://umd-project.org/app?url=https://www.dropbox.com/s/{file-id}?dl=0
 ```
 Of course, you need to replace the file-id with an appropriate one. 
-3. Check out: [https://umd-project.org/app/?url=https://www.dropbox.com/s/nm6bempxm8386ju/sample-edu.md?dl=0](https://umd-project.org/app/?url=https://www.dropbox.com/s/nm6bempxm8386ju/sample-edu.md?dl=0){:target="_blank"}
+3. Check out: [https://app.umd-project.org/?url=https://www.dropbox.com/s/nm6bempxm8386ju/sample-edu.md?dl=0](https://app.umd-project.org/?url=https://www.dropbox.com/s/nm6bempxm8386ju/sample-edu.md?dl=0){:target="_blank"}
 
 
 <br/>

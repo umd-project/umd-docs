@@ -26,7 +26,7 @@ In a similar manner, for MacOS desktops the UMD App us under development. This t
 {: .subtitle }
 The Android version of the UMD App is available. It can be downloaded from the Google Play Store:
 
-[Download UMD App](https://play.google.com/store/apps/details?id=org.umdproject.umdapp)
+[Download ver 1.2 of the UMD App](https://play.google.com/store/apps/details?id=org.umdproject.umdapp)
 
 ### iOS App
 {: .subtitle }
