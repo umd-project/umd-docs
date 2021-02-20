@@ -17,21 +17,21 @@ The access is using: [https://app.umd-project.org](https://app.umd-project.org)
 
 ### Windows App
 {: .subtitle }
-The Windows 10 Setup exed can be downloaded from here: [UMD App Setup 1.0.0.exe 53MB](https://drive.google.com/file/d/1QQN7WmPVjpoW9vg2eUIm_4V9Avyq8VF1/view?usp=sharing).
+The Windows 10 Setup exed can be downloaded from here: [UMD App Setup 1.0.0.exe 53MB](https://drive.google.com/uc?export=download&id=1QQN7WmPVjpoW9vg2eUIm_4V9Avyq8VF1).
 
 When opening for the first time, Windows will give you a warning since the app has not yet been *signed*. Kindly ignore it. 
 
 
 ### Mac OS App
 {: .subtitle }
-The MacOS Installer can be downloaded from here: [UMD App 1.0.0.dmg 74MB](https://drive.google.com/file/d/1Gy_DndnaT_PiEPSF1mE6wyp0nJz7Hb6N/view?usp=sharing).
+The MacOS Installer can be downloaded from here: [UMD App 1.0.0.dmg 74MB](https://drive.google.com/uc?export=download&id=1Gy_DndnaT_PiEPSF1mE6wyp0nJz7Hb6N).
 
 When opening for the first time, the OS will give you a warning since the app has not yet been *signed and notarised*. Kindly ignore it.
 
 
 ### Linux App
 {: .subtitle }
-The Linux deb can be downloaded from here: [umd-electron_1.0.0_amd64.deb 52MB](https://drive.google.com/file/d/1-UIAVu37QI0fDQMx4tGu6vVucWO0Vt7-/view?usp=sharing).
+The Linux deb can be downloaded from here: [umd-electron_1.0.0_amd64.deb 52MB](https://drive.google.com/uc?export=download&id=1-UIAVu37QI0fDQMx4tGu6vVucWO0Vt7-).
 
 After downloading run: `apt-get install ./umd-electron_1.0.0_amd64.deb`.
 
