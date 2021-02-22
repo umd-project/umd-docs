@@ -10,7 +10,11 @@ title: UMD: Viewing UMD Doc
 {: .subtitle}
 UMD Apps are available for multiple platforms. Download based on your device OS. [Downloads sections](./downloads.md)
 
-#### How do we view files from the app
+### Is the app free
+{: .subtitle}
+The app is **free**. In addition, there is no login required to view or create umd files.
+
+### How do we view files from the app
 {: .subtitle}
 There are a number of ways to achieve this.
 1. By opening the file from your device or desktop using upload.
@@ -19,9 +23,11 @@ There are a number of ways to achieve this.
 
 Check out the [Examples section](./examples.md).
 
-### Is the app free
-{: .subtitle}
-The app is **free**. In addition, there is no login required to view or create umd files.
+### Can we open UMD files from Google Drive
+No. Files stored in Google Drive do not allow them to be accessed programmatically via URL. We will shortly be adding the feature that would require you to log into your Google Account to access files from Drive.
+
+### Can we open UMD files from DropBox
+Yes. If the UMD file is shared in DropBox, you can enter the share url in the open screen to download it and show its content.
 
 ### How do we create a UMD
 {: .subtitle}
